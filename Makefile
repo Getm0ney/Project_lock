@@ -24,7 +24,7 @@ $(TARGET): $(OBJECTS)
 	@echo " Linking..."
 	@mkdir -p $(BINDIR)
 	@echo " $(CC) $^ -o $(TARGET)"; $(CC) $^ -o $(TARGET)
-	@echo "\nCASH RULES EVERYTHING AROUND ME CREAMIN' 💵"
+	@echo "\nCASH RULES EVERYTHING AROUND ME CREAM' 💵"
 
 
 clean:
